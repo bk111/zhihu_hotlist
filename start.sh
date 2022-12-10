@@ -1,4 +1,4 @@
-python3 ./zhihu_crawler.py
+python3 ./test1.py
 
 year=`date +%Y `
 month=`date +%m `
